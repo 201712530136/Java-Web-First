@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+E:\eclipse\王琳琳最早的javaweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1537295173.index
+\Bookch02\src
+E:\eclipse\王琳琳最早的javaweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3854988752.index
+\Bookch02\src
+E:\eclipse\王琳琳最早的javaweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2637785677.index
+\homework\src
